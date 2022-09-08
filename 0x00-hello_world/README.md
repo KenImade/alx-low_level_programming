@@ -20,3 +20,4 @@ The objectives of this project are the following:
 | 4 | 3-name | Compiles a C file and creates an executable named `cisfun` |
 | 5 | 4-puts.c | C program that prints exactly `"Programming is like building a multilingual puzzle`, followed by a new line. |
 | 6 | 5-printf.c | C program that prints exactly `with proper grammar, but the outcome is a piece of art,`, followed by a new line. |
+| 7 | 6-size.c | C program that prints the size of various types on the computer it is compiled and run on. |
