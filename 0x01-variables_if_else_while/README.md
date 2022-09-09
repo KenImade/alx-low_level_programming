@@ -27,3 +27,4 @@ The objectives of this project are the following:
 | 10 | 9-print_comb.c | Prints all possible combinations of single-digit numbers. |
 | 11 | 100-print_comb3.c | C program that prints all possible different combinations of two digits. |
 | 12 | 101-print_comb4.c | C program that prints all possible different combinations of three digits. |
+| 13 | 102-print_comb5.c | C program that prints all possible combinations of two two-digit numbers. | 
