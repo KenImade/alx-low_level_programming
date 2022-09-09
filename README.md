@@ -6,3 +6,4 @@ This repository contains the following directories:
 | S/N | Directory | Description |
 | --- | ---------- | ------------  |
 | 1 | 0x00-hello_world | An introduction to the C programming language |
+| 2 | 0x01-variables_if_else_while | Variables, If, While in C |
