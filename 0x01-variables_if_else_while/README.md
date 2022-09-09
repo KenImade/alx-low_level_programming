@@ -24,3 +24,4 @@ The objectives of this project are the following:
 | 7 | 6-print_number.c | Prints all single digit numbers of base 10 starting from 0, using `putchar`|
 | 8 | 7-print_tebahpla.c |  Prints the lowercase alphabet in reverse |
 | 9 | 8-print_base16.c | Prints all the numbers of base 16 in lowercase |
+| 10 | 9-print_comb.c | Prints all possible combinations of single-digit numbers. |
