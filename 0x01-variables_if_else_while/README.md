@@ -18,3 +18,4 @@ The objectives of this project are the following:
 | 1 | 0-positive_or_negative.c |  Program will assign a random number to the variable n each time it is executed and print the value of the number and if it is positive, negative or zero. |
 | 2 | 1-last-digit.c | Program will assign a random number to the variable n each time it is executed and print the last digit and check for the following:<ul><li>if the last digit of n is greater than 5: the string and is greater than 5</li><li>if the last digit of n is 0: the string and is 0</li><li>if the last digit of n is less than 6 and not 0: the string and is less than 6 and not 0</li></ul> |
 | 3 | 2-print_alphabet.c | Prints the alphabet in lowercase |
+| 4 | 3-print_alphabets.c | Prints the alphabet in lowercase, and then in uppercase, followed by a new line. |
