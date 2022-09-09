@@ -15,4 +15,8 @@ The objectives of this project are the following:
 
 | S/N | File | Description |
 | --- | ---------- | ----------------- |
-| 1 | 0-positive_or_negative.c |  Program will assign a random number to the variable n each time it is executed. |
+| 1 | 0-positive_or_negative.c |  Program will assign a random number to the variable n each time it is executed and print the value of the number and if it is positive, negative or zero. |
+| 2 | 1-last-digit.c | Program will assign a random number to the variable n each time it is executed and print the last digit and check for the following:
+- if the last digit of n is greater than 5: the string and is greater than 5
+- if the last digit of n is 0: the string and is 0
+- if the last digit of n is less than 6 and not 0: the string and is less than 6 and not 0 |
