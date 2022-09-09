@@ -22,3 +22,4 @@ The objectives of this project are the following:
 | 5 | 4-print_alphabet.c | Prints the alphabet except the letters `q` and `e` |
 | 6 | 5-print_numbers.c | Prints all single digit numbers of base 10 starting from 0, followed by a new line. |
 | 7 | 6-print_number.c | Prints all single digit numbers of base 10 starting from 0, using `putchar`|
+| 8 | 7-print_tebahpla.c |  Prints the lowercase alphabet in reverse |
