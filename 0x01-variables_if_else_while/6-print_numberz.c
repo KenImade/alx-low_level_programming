@@ -12,8 +12,8 @@ int main(void)
 
 	limit = '9';
 
-	for (i = '0', i <= limit; i++)
-		putchar(d);
+	for (i = '0'; i <= limit; i++)
+		putchar(i);
 	putchar('\n');
 	return (0);
 }
