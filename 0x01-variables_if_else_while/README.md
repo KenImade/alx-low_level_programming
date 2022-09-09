@@ -21,3 +21,4 @@ The objectives of this project are the following:
 | 4 | 3-print_alphabets.c | Prints the alphabet in lowercase, and then in uppercase, followed by a new line. |
 | 5 | 4-print_alphabet.c | Prints the alphabet except the letters `q` and `e` |
 | 6 | 5-print_numbers.c | Prints all single digit numbers of base 10 starting from 0, followed by a new line. |
+| 7 | 6-print_number.c | Prints all single digit numbers of base 10 starting from 0, using `putchar`|
