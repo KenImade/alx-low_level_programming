@@ -11,13 +11,11 @@ int main(void)
 	int limit;
 
 	limit = 122;
-	i = 97;
-	for (i; i <= limit; i++)
+	for (i = 97; i <= limit; i++)
 		putchar(i);
 
-	i = 65;
 	limit = 90;
-	for (i; i <= limit; i++)
+	for (i = 65; i <= limit; i++)
 		putchar(i);
 
 	putchar('\n');
