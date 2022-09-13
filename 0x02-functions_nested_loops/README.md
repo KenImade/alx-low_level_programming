@@ -19,3 +19,4 @@ The objectives of this project are to explain the following:
 | 4 | 3-islower.c | A function that checks for lowercase character. |
 | 5 | 4-isalpha.c | A function that checks for alphabetic character.|
 | 6 | 5-sign.c | A function that prints the sign of a number. |
+| 7 | 6-abs.c | A function that computes the absolute value of an integer. |
