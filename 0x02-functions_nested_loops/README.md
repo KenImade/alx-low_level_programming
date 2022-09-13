@@ -13,3 +13,4 @@ The objectives of this project are to explain the following:
 
 | S/N | File | Description |
 |-----| ---------- | ------------------ |
+| 1 | 0-putchar.c | A program that prints _putchar, followed by a new line. |
