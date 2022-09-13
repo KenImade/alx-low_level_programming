@@ -14,3 +14,4 @@ The objectives of this project are to explain the following:
 | S/N | File | Description |
 |-----| ---------- | ------------------ |
 | 1 | 0-putchar.c | A program that prints _putchar, followed by a new line. |
+| 2 | 1-alphabet.c | Function that prints the alphabet, in lowercase, followed by a new line. |
