@@ -25,3 +25,4 @@ The objectives of this project are to explain the following:
 | 10 | 9-times_table.c | A function that prints the 9 times table, starting with 0. |
 | 11 | 10-add.c | A function that adds two integers and returns the result. |
 | 12 | 11-print_to_98.c | A function that prints all natural numbers from `n` to `98`, followed by a new line. |
+| 13 | 100-times_table.c | A function that prints the n times table except n is greater than 15 or less than 0, starting with 0. | 
