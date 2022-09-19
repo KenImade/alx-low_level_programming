@@ -19,3 +19,4 @@ The objectives of this project are the following:
 | 6 | 5-rev_string.c | A function that reverses a string |
 | 7 | 6-puts2.c | A function that prints every other character of a string, starting with the first character, followed by a new line |
 | 8 | 7-puts_half.c | A function that prints half a string, followed by a new line |
+| 9 | 8-print_array.c | A function that prints `n` elements of an array of integers, followed by a new line | 
