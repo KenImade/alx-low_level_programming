@@ -3,7 +3,7 @@
 /**
  * main - updates a pointer value to 98
  *
- * Return: Always 0.
+ * Return: void.
  */
 void reset_to_98(int *n)
 {
@@ -12,6 +12,4 @@ void reset_to_98(int *n)
 	num = 98;
 
 	n = num;
-
-	return (0);
 }
