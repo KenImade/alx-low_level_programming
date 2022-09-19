@@ -14,4 +14,5 @@ The objectives of this project are the following:
 | 1 | 0-reset_to_98.c | A function that takes a pointer to an `int` as parameter and updates the value it points to to `98` |
 | 2 | 1-swap.c | A function that swaps the value of two integers |
 | 3 | 2-strlen.c | A function that calculates the length of a string |
-| 4 | 3-puts.c | A functions that prints a string, followed by a newline |
+| 4 | 3-puts.c | A function that prints a string, followed by a newline |
+| 5 | 4-print_rev.c | A function that prints a string, in reverse, followed by a new line | 
