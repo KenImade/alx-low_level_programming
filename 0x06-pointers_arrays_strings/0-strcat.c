@@ -7,7 +7,7 @@
  * @dest: string input
  * @src: string input
  *
- * Return - dest, a pointer to the resulting string dest
+ * Return: a pointer to the resulting string dest
  */
 char *_strcat(char *dest, char *src)
 {
