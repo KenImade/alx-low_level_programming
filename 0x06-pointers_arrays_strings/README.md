@@ -15,3 +15,4 @@ The objectives of this project are:
 | 2 | 1-strncat.c | A function that concatenates two strings, but will use at most `n` bytes from `src`|
 | 3 | 2-strncpy.c | A function that copies a string |
 | 4 | 3-strcmp.c | A function that compares two strings |
+| 5 | 4-rev_array.c | A function that reverses the content of an array of integers |
