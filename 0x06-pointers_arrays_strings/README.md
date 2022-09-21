@@ -11,3 +11,4 @@ The objectives of this project are:
 
 | S/N | File | Description |
 | --- | --------- | -------------------- |
+| 1 | 0-strcat.c | A function that concatenates two strings |
