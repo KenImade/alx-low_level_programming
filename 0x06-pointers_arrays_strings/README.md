@@ -16,3 +16,4 @@ The objectives of this project are:
 | 3 | 2-strncpy.c | A function that copies a string |
 | 4 | 3-strcmp.c | A function that compares two strings |
 | 5 | 4-rev_array.c | A function that reverses the content of an array of integers |
+| 6 | 5-string_toupper.c | A function that changes all lowercase letters of a string to uppercase |
