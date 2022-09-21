@@ -4,21 +4,21 @@
  * string_toupper - changes all lowercase letters of a string
  * to uppercase
  *
- * @'': string argument
+ * @s: string argument
  *
  * Return: returns a string in uppercase
  */
-char *string_toupper(char *)
+char *string_toupper(char *s)
 {
 	int i = 0;
 
-	while (*[i] != '\0')
+	while (s[i] != '\0')
 	{
-		if ((*[i] >= 97) && (*[i] <= 122))
+		if ((s[i] >= 97) && (s[i] <= 122))
 		{
-			*[i] = *[i] - 32;
+			s[i] = s[i] - 32;
 		}
 		i++;
 	}
-	return (*);
+	return (s);
 }
