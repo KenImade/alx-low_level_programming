@@ -13,3 +13,4 @@ The objectives of this project are:
 | 2 | 1-memcpy.c | A function that copies memory area |
 | 3 | 2-strchr.c | A function that locates a character in a string |
 | 4 | 3-strspn.c | A function that gets the lenght of a prefix substring |
+| 5 | 4-strpbrk.c | A function that searches a string for any of a set of bytes |
