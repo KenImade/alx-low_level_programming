@@ -9,3 +9,4 @@ The objectives of this project are:
 
 | S/N | File | Description |
 | --- | ---- | ----------- |
+| 1 | 0-memset.c | A function that fills memory with a constant byte |
