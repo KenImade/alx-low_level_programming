@@ -12,3 +12,4 @@ The objectives of this project are:
 | 1 | 0-memset.c | A function that fills memory with a constant byte |
 | 2 | 1-memcpy.c | A function that copies memory area |
 | 3 | 2-strchr.c | A function that locates a character in a string |
+| 4 | 3-strspn.c | A function that gets the lenght of a prefix substring |
