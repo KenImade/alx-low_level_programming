@@ -15,3 +15,4 @@ The objectives of this project are:
 | 4 | 3-strspn.c | A function that gets the lenght of a prefix substring |
 | 5 | 4-strpbrk.c | A function that searches a string for any of a set of bytes |
 | 6 | 5-strstr.c | A function that locates a substring |
+| 7 | 7-print_chessboard.c | A function that prints the chessboard |
