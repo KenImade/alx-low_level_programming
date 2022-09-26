@@ -10,3 +10,4 @@ The objectives of this project are:
 | S/N | File | Description |
 | --- | ---- | ----------- |
 | 1 | 0-memset.c | A function that fills memory with a constant byte |
+| 2 | 1-memcpy.c | A function that copies memory area |
