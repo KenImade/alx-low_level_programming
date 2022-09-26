@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _strspn - gets the length of a prefix 
+ * _strspn - gets the length of a prefix
  * substring
  *
  * @s: string to be searched
