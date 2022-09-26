@@ -14,3 +14,4 @@ The objectives of this project are:
 | 3 | 2-strchr.c | A function that locates a character in a string |
 | 4 | 3-strspn.c | A function that gets the lenght of a prefix substring |
 | 5 | 4-strpbrk.c | A function that searches a string for any of a set of bytes |
+| 6 | 5-strstr.c | A function that locates a substring |
