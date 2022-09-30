@@ -14,3 +14,4 @@ The objectives of this project are to learn the following:
 | 3 | 2-args.c | A program that prints all arguments it receives. |
 | 4 | 3-mul.c | A program that multiplies two numbers |
 | 5 | 4-add.c | A program that adds positive numbers |
+| 6 | 100-change.c | A program that prints the minimum number of coins to make change for an amount of money |
