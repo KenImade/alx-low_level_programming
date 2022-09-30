@@ -9,4 +9,4 @@ The objectives of this project are to learn the following:
 
 | S/N | File | Description |
 | --- | ---- | ----------- |
-
+| 1 | 0-whatsmyname.c | A program that prints its name, followed by a new line. |
