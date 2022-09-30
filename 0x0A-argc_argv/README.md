@@ -13,3 +13,4 @@ The objectives of this project are to learn the following:
 | 2 | 1-args.c | A program that prints the number of arguments passed into it. |
 | 3 | 2-args.c | A program that prints all arguments it receives. |
 | 4 | 3-mul.c | A program that multiplies two numbers |
+| 5 | 4-add.c | A program that adds positive numbers |
