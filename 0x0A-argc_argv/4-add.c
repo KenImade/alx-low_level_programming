@@ -14,7 +14,7 @@
  */
 int main(int argc, char *argv[])
 {
-	int i, sum = 0;
+	int i = sum = 0;
 
 	if (argc == 1)
 	{
@@ -31,7 +31,7 @@ int main(int argc, char *argv[])
 			else
 			{
 				printf("Error\n");
-				return (1);
+				//return (1);
 			}
 		}
 
