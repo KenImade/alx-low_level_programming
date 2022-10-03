@@ -11,10 +11,14 @@
  */
 int count_len(char *str)
 {
-	int i = len = 0;
+	int i, len;
+
+	i = len = 0;
 
 	if (str == NULL)
+	{
 		return (len);
+	}
 
 	while (str[i] != '\0')
 	{
@@ -44,7 +48,7 @@ char *str_concat(char *s1, char *s2)
 	if (s1 == NULL)
 		s1 = empty;
 	if (s2 == NULL)
-		s2 = emtpy;
+		s2 = empty;
 
 	i = 0;
 	len1 = count_len(s1);
@@ -70,5 +74,5 @@ char *str_concat(char *s1, char *s2)
 		i++;
 		j++;
 	}
-	return (s3);
+	return (newStr);
 }
