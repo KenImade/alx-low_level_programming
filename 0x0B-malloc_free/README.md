@@ -11,4 +11,4 @@ The objectives of this project are to learn the following:
 
 | S/N | File | Description |
 | --- | ---- | ----------- |
-
+| 1 | 0-create_array.c | A function that creates an array of char, and intialized it with a specific char |
