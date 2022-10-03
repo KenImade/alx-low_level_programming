@@ -16,3 +16,4 @@ The objectives of this project are to learn the following:
 | 3 | 2-str_concat.c | A function that concatenates two strings |
 | 4 | 3-alloc_grid.c | A function that returns a pointer to a 2 dimensional array of integers |
 | 5 | 4-free_grid.c | A function that frees a 2 dimensional grid previously created by the `alloc_grid` function |
+| 6 | 100-argstostr.c | A function that concatenates all the arguments of your program |
