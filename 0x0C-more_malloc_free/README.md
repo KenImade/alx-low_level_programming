@@ -10,4 +10,4 @@ The objectives of this project are the following:
 | --- | ---- | ----------- |
 | 1 | 0-malloc_checked.c | A function that allocates memory using `malloc` |
 | 2 | 1-string_nconcat.c | A function that concatenates two strings. |
-| 3 | 
+| 3 | 2-calloc.c | A function that allocates memory for an array, using `malloc` | 
