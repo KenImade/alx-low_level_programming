@@ -1,3 +1,5 @@
+#include "main.h"
+#include <stdio.h>
 /**
  * array_range - Creates an array of integers ordered
  * from min to max, inclusive.
