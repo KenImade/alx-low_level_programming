@@ -2,6 +2,36 @@
 #include <stdlib.h>
 
 /**
+ * _calloc - Allocates memory for an array
+ *
+ * @n: The number of elements
+ * @size: The byte size of each array element
+ *
+ * Return: returns null if fail else a pointer
+ */
+void *_calloc(unsigned int n, unsigned int size)
+{
+	void *mem;
+	char *filler;
+	unsigned int i;
+
+	if (n == 0 || size == 0)
+		return (NULL);
+
+	mem = malloc(size * n);
+
+	if (!mem)
+		return (NULL);
+
+	filler = mem;
+
+	for (i = 0; i < (size * n); i++)
+		filler[i] = '\0';
+
+	return (mem);
+}
+
+/**
  * *string_nconcat - concatenates two string
  *
  * @s1: first string argument
