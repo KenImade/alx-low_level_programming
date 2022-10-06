@@ -2,44 +2,14 @@
 #include <stdlib.h>
 
 /**
- * _calloc - Allocates memory for an array
+ *  string_nconcat - concatenates two strings
  *
- * @n: The number of elements
- * @size: The byte size of each array element
+ *  @s1: The first string
+ *  @s2: The second string
+ *  @n: Number of bytes from s2 to concatenate to s1
  *
- * Return: returns null if fail else a pointer
- */
-void *_calloc(unsigned int n, unsigned int size)
-{
-	void *mem;
-	char *filler;
-	unsigned int i;
-
-	if (n == 0 || size == 0)
-		return (NULL);
-
-	mem = malloc(size * n);
-
-	if (!mem)
-		return (NULL);
-
-	filler = mem;
-
-	for (i = 0; i < (size * n); i++)
-		filler[i] = '\0';
-
-	return (mem);
-}
-
-/**
- * *string_nconcat - concatenates two string
- *
- * @s1: first string argument
- * @s2: second string argument
- * @n: number of characters to be concatenated from
- * the second string
- *
- * Return: a new string or NULL if it fails
+ *  Return: if fails returns NULL else a poninter to
+ *  the concatenated string
  */
 char *string_nconcat(char *s1, char *s2, unsigned int n)
 {
@@ -71,3 +41,4 @@ char *string_nconcat(char *s1, char *s2, unsigned int n)
 	newString[len] = '\0';
 
 	return (newString);
+}
