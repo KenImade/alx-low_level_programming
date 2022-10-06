@@ -9,4 +9,5 @@ The objectives of this project are the following:
 | S/N | File | Description |
 | --- | ---- | ----------- |
 | 1 | 0-malloc_checked.c | A function that allocates memory using `malloc` |
-| 2 |
+| 2 | 1-string_nconcat.c | A function that concatenates two strings. |
+| 3 | 
