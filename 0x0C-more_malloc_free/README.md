@@ -8,4 +8,5 @@ The objectives of this project are the following:
 
 | S/N | File | Description |
 | --- | ---- | ----------- |
-| 1 |
+| 1 | 0-malloc_checked.c | A function that allocates memory using `malloc` |
+| 2 |
