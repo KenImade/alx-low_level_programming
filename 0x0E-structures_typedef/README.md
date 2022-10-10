@@ -7,4 +7,4 @@ The objectives of this project are to learn the following:
 - How to use `typedef`
 
 | S/N | File | Description |
-| 1 |
+| 1 | dog.h | Defines a new type `struct dog` |
