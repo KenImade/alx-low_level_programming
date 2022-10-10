@@ -9,5 +9,6 @@ The objectives of this project are to learn the following:
 
 | S/N | File | Description |
 | --- | ---- | ----------- |
-| 1 | 0-object_like_macro.h | A header file that defines a macro named SIZE with value 1024 |
-| 2 | 
+| 1 | 0-object_like_macro.h | A header file that defines a macro named SIZE with value `1024` |
+| 2 | 1-pi.h | A header file that defines a macro named PI with value `3.14159265359` |
+| 3 | 
