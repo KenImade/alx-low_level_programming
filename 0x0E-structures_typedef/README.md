@@ -12,4 +12,4 @@ The objectives of this project are to learn the following:
 | 3 | 2-print_dog.c | A function that prints a struct dog |
 | 4 | dog.h | Defines a new type `dog_t` as a new name for the type `struct dog` |
 | 5 | 4-new_dog.c | A function that creates a new dog |
-| 6 | 
+| 6 | 5-free_dog.c | A function that frees dogs |
