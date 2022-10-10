@@ -9,3 +9,4 @@ The objectives of this project are to learn the following:
 | S/N | File | Description |
 | 1 | dog.h | Defines a new type `struct dog` |
 | 2 | 1-init_dog.c | A function that initializes a variable of type `struct dog` |
+| 3 | 2-print_dog.c | A function that prints a struct dog |
