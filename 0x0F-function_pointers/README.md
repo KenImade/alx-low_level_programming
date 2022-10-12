@@ -11,3 +11,4 @@ The objectives of this project are to learn the following:
 | --- | ---- | ----------- |
 | 1 | function_pointers.h | header file |
 | 2 | 0-print_name.c | A function that prints a name |
+| 3 | 1-array_iterator.c | A function that executes a function given as a parameter on each element of an array |
