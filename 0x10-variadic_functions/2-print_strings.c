@@ -1,3 +1,5 @@
+#include <stdarg.h>
+#include <stdio.h>
 
 /**
  * print_strings - prints all arguments
