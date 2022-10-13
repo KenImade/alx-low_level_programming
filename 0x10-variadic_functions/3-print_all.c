@@ -31,7 +31,7 @@ void print_all(const char * const format, ...)
 				printf("%f", (float)va_arg(items, double));
 				break;
 			case 's':
-				s = va_arg(item, char *);
+				s = va_arg(items, char *);
 				if (!s)
 					s = "(nil)";
 				printf("%s", s);
@@ -45,4 +45,4 @@ void print_all(const char * const format, ...)
 
 	printf("\n");
 	va_end(items);
-
+}
