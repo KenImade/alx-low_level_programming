@@ -10,4 +10,4 @@ The objectives of this project are to learn the following:
 | S/N | File | Description |
 | --- | ---- | ----------- |
 | 1 | variadic_functions.h | header file |
-| 2 |
+| 2 | 0-sum_them_all.c | A function that returns the sum of all its parameters |
