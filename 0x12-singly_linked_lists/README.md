@@ -1,6 +1,6 @@
 # C - Singly Linked Lists
 
-This project is part of the ALx Full Stack Software Engineering program.\
+This project is part of the ALx Full Stack Software Engineering program.
 
 The objectives of this project are to learn the following:
 - When and why using linked lists vs arrays
@@ -8,4 +8,6 @@ The objectives of this project are to learn the following:
 
 | S/N | File | Description |
 | --- | ---- | ----------- |
-| 1 |
+| 1 | lists.h | header file |
+| 2 | 0-print_list.c | A function that prints all the elements of a `list_t` list.|
+| 3 |
