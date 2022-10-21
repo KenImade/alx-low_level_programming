@@ -12,17 +12,9 @@
 size_t print_list(const list_t *h)
 {
 	int i = 0;
-	list_t *current;
+	const list_t *current = h;
 
-	current = malloc(sizeof(list_t));
-	if (current == NULL)
-	{
-		printf("Error\n");
-		return (1);
-	}
-
-	current = h;
-	while (current->next != NULL)
+	while (current != NULL)
 	{
 		if (current->str == NULL)
 		{
