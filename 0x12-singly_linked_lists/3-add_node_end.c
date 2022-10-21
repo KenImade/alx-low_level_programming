@@ -39,7 +39,7 @@ list_t *add_node_end(list_t **head, const char *str)
 		free(new_node);
 		return (NULL);
 	}
-	new_node->len = c;
+	new_node->len = i;
 	new_node->next = NULL;
 
 	if (current)
