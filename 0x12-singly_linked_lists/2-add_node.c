@@ -1,10 +1,8 @@
-#include <stdlib.h>
 #include <string.h>
-#include <stdio.h>
 #include "lists.h"
 
 /**
- * add_node - adds a new node to a linked list
+ * *add_node - adds a new node to a linked list
  *
  * @head: head of linked list
  * @str: string to be added
@@ -35,7 +33,7 @@ list_t *add_node(list_t **head, const char *str)
 	for (len = 0; str[len] != '\0'; len++)
 		;
 
-	new_node->len = len_str;
+	new_node->len = len;
 	new_node->next = *head;
 	*head = new_node;
 
