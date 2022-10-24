@@ -15,3 +15,4 @@ The objective of this project of this project is to learn how to use linked list
 | 7 | 5-free_listint2.c | A function that frees a `listint_t` list and resets the head to NULL |
 | 8 | 6-pop_listint.c | A function that deletes the head node of a `listint_t` linked list, and returns the head node's data (n) |
 | 9 | 7-get_nodeint.c | A function that returns the nth node of a `listint_t` linked list |
+| 10 | 8-sum_listint.c | A function that returns the sum of all the data of a `listint_t` linked list |
