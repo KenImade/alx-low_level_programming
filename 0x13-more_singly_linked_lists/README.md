@@ -11,3 +11,4 @@ The objective of this project of this project is to learn how to use linked list
 | 3 | 1-listint_len.c | A function that returns the number of elements in a linked `listint_t` list | 
 | 4 | 2-add_nodeint.c | A function that adds a new node at the beginning of a `listint_t` list. |
 | 5 | 3-add_nodeint_end.c | A function that adds a new node at the end of a `listint_t` list |
+| 6 | 4-free_listint.c | A function that frees a `listint_t` list |
