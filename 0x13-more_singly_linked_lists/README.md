@@ -17,3 +17,4 @@ The objective of this project of this project is to learn how to use linked list
 | 9 | 7-get_nodeint.c | A function that returns the nth node of a `listint_t` linked list |
 | 10 | 8-sum_listint.c | A function that returns the sum of all the data of a `listint_t` linked list |
 | 11 | 9-insert_nodeint.c | A function that inserts a new node at a given position |
+| 12 | 10-delete_nodeint.c | A function that deletes the node at index `index` of a `listint_t` linked list |
