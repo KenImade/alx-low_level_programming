@@ -1,4 +1,5 @@
 #include "lists.h"
+#include <stdio.h>
 
 /**
  * delete_nodeint_at_index - deletes the node at a specified index
@@ -28,7 +29,7 @@ int delete_nodeint_at_index(listint_t **head, unsigned int index)
 		return (1);
 	}
 
-	while (index = 1)
+	while (index != 1)
 	{
 		if (current->next == NULL)
 			return (-1);
