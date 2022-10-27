@@ -12,3 +12,4 @@ The objective of this project is to learn how to carry out bit manipulation.
 | 4 | 2-get_bit.c | A function that returns the value of a bit at a given index. |
 | 5 | 3-set_bit.c | A function that sets the value of a bit to 1 at a given index |
 | 6 | 4-clear_bit.c | A function that sets the value of a bit to 0 at a given index |
+| 7 | 5-flip_bits.c | A function that returns the number of bits you would need to flip to get from one number to another |
