@@ -1,6 +1,8 @@
 #ifndef MAIN_H
 #define MAIN_H
 
+#define BYTE_LENGTH 8
+
 #include <stdio.h>
 #include <stdlib.h>
 
