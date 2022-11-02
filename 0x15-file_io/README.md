@@ -16,3 +16,4 @@ The objectives of this project are to learn the following:
 | S/N | File | Description |
 | --- | ---- | ----------- |
 | 1 | main.h | Header file |
+| 2 | 0-read_textfile.c | A function that reads a text file and prints it to the `POSIX` standard output |
