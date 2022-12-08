@@ -8,4 +8,4 @@ The aim of this project is to learn the following:
 
 | S/N | File(s) | Description |
 | --- | ------- | ----------- |
-| 
+| 1 | [0-print_dlistint.c](./0-print_dlistint.c) |  a function that prints all the elements of a dlistint_t list. | 
