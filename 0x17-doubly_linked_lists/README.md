@@ -12,4 +12,5 @@ The aim of this project is to learn the following:
 | 1 | [1-dlistint_len.c](./1-dlistint_len.c) |  a function that returns the number of elements in a linked dlistint_t list. |
 | 2 | [2-add_dnodeint.c](./2-add_dnodeint.c) | a function that adds a new node at the beginning of a dlistint_t list |
 | 3 | [3-add_dnodeint_end.c](./3-add_dnodeint_end.c) | a function that adds a new node at the end of a dlistint_t list. |
-| 4 | [4-free_dlistint.c](./4-free_dlistint.c) | a function that frees a doubly linked list | 
+| 4 | [4-free_dlistint.c](./4-free_dlistint.c) | a function that frees a doubly linked list |
+| 5 | [5-get_dnodeint.c](./5-get_dnodeint.c) | a function that returns the nth node of a dlistint_t list | 
