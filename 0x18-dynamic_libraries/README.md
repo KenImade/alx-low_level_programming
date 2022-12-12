@@ -10,4 +10,5 @@ The aim of this project is to learn the following:
 
 | S/N | File(s) | Description |
 | --- | ------- | ----------- |
-|
+| 0 | [libdynamic.so](./libdynamic.so), [main.h](./main.h) | Dynamic C library and header file |
+| 1 | [1-create_dynamic_lib.sh](./1-create_dynamic_lib.sh) | Script that creates a dynamic library calles `liball.so` from all the `.c` files that are in the current directory |
