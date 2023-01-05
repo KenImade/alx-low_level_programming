@@ -11,3 +11,4 @@ The aim of this project is to learn the following:
 | S/N | File(s) | Description |
 | --- | ------- | ----------- |
 | 0 | hash_tables.h | C header file |
+| 1 | 0-hash_table_create.c | A function that creates a hash table |
