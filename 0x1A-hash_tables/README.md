@@ -12,3 +12,4 @@ The aim of this project is to learn the following:
 | --- | ------- | ----------- |
 | 0 | hash_tables.h | C header file |
 | 1 | 0-hash_table_create.c | A function that creates a hash table |
+| 2 | 1-djb2.c | A hash function implementint the djb2 algorithm |
