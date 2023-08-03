@@ -12,9 +12,18 @@
  */
 void print_binary(unsigned long int n)
 {
-	if (n > 1)
+	unsigned long int mask;
+
+	if (n == 0)
 	{
-		print_binary(n / 2);
+		_putchar('0');
 	}
-	printf("%lu", n % 2);
+	else
+	{
+		mask = n & 1;
+		n = n >> 1;
+		if (!(n == 0))
+			print_binary(n);
+		_putchar(mask + '0');
+	}
 }
